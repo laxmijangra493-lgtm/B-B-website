@@ -43,3 +43,5 @@ The demo intentionally uses live CDN image URLs so the preview uses real B&B ima
 - Google Maps location supplied for the demo: https://maps.app.goo.gl/UWD9fva5acjDUG2U9
 - Instagram: https://www.instagram.com/brew_and_brunch_jaipur/
 - Table booking: https://www.district.in/dining/jaipur/b-b-brew-and-brunch-1-c-scheme
+
+Vibe coded
